@@ -9,8 +9,8 @@ import FilledInput from '@material-ui/core/FilledInput';
 import OutlinedInput from '@material-ui/core/OutlinedInput';
 import LinearProgress from '@material-ui/core/LinearProgress';
 import IconButton from '@material-ui/core/IconButton';
-import ArrowDropDown from '@material-ui/icons/ArrowDropDown';
-import ArrowDropUp from '@material-ui/icons/ArrowDropUp';
+import ArrowDropDown from '@material-ui/icons/KeyboardArrowDown';
+import ArrowDropUp from '@material-ui/icons/KeyboardArrowUp';
 import Clear from '@material-ui/icons/Clear';
 
 const variantComponent = {
